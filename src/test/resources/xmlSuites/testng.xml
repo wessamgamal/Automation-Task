@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+
+
+    <test name="Pixel4">
+        <parameter name="platformName" value="Android" />
+        <parameter name="udid" value="emulator-5556" />
+        <parameter name="deviceName" value="pixel4" />
+        <parameter name="systemPort" value="10001" />
+        <parameter name="language" value="en" />
+        <parameter name="allureResultsDirectory" value="target/Pixel4/allure-results" />
+        <classes>
+            <class name="com.bm.runners.MyPixel4TestNGRunnerTest"/>
+        </classes>
+    </test>
+
+    <test name="Pixel3">
+        <parameter name="platformName" value="Android" />
+        <parameter name="udid" value="emulator-5554" />
+        <parameter name="deviceName" value="pixel3" />
+        <parameter name="systemPort" value="10000" />
+        <parameter name="language" value="ar" />
+        <parameter name="allureResultsDirectory" value="target/Pixel3/allure-results" />
+        <classes>
+            <class name="com.bm.runners.MyPixel3TestNGRunnerTest"/>
+        </classes>
+    </test>
+
+</suite> <!-- Suite -->

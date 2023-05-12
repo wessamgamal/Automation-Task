@@ -1,0 +1,153 @@
+{
+
+  "SAclassicPlanDetailsname": {
+    "en": "CLASSIC",
+    "ar": ""
+
+  },
+  "SAclassicPlanDetailsprice": {
+    "en": "25",
+    "ar": ""
+
+  },
+
+  "SAclassicPlanDetailscurrency": {
+    "en": "SAR",
+    "ar": ""
+
+  },
+
+
+  "SALitePlanDetailsname": {
+    "en": "LITE",
+    "ar": ""
+
+  },
+  "SALitePlanDetailsprice": {
+    "en": "15",
+    "ar": ""
+
+  },
+
+  "SALitePlanDetailscurrency": {
+    "en": "SAR",
+    "ar": ""
+
+  },
+  "SAPremiumLitePlanDetailsname": {
+    "en": "PREMIUM",
+    "ar": ""
+
+  },
+  "SAPremiumLitePlanDetailsprice": {
+    "en": "60",
+    "ar": ""
+
+  },
+
+  "SAPremiunPlanDetailscurrency": {
+    "en": "SAR",
+    "ar": ""
+  },
+
+  "kwclassicPlanDetailsname": {
+    "en": "CLASSIC",
+    "ar": ""
+
+  },
+  "kwclassicPlanDetailsprice": {
+    "en": "2.5",
+    "ar": ""
+
+  },
+
+  "kwclassicPlanDetailscurrency": {
+    "en": "KWD",
+    "ar": ""
+
+  },
+  "kwLitePlanDetailsname": {
+    "en": "LITE",
+    "ar": ""
+
+  },
+  "kwLitePlanDetailsprice": {
+    "en": "1.2",
+    "ar": ""
+
+  },
+
+  "kwLitePlanDetailscurrency": {
+    "en": "KWD",
+    "ar": ""
+
+  },
+
+  "kwPremiunPlanDetailsname": {
+    "en": "PREMIUM",
+    "ar": ""
+
+  },
+  "kwPremiumPlanDetailsprice": {
+    "en": "4.8",
+    "ar": ""
+
+  },
+
+  "kwPremiumPlanDetailscurrency": {
+    "en": "KWD",
+    "ar": ""
+
+  },
+
+
+  "BHclassicPlanDetailsname": {
+    "en": "CLASSIC",
+    "ar": ""
+
+  },
+  "BHclassicPlanDetailsprice": {
+    "en": "3",
+    "ar": ""
+
+  },
+
+  "BHclassicPlanDetailscurrency": {
+    "en": "BHD",
+    "ar": ""
+
+  },
+  "BHLitePlanDetailsname": {
+    "en": "LITE",
+    "ar": ""
+
+  },
+  "BHLitePlanDetailsprice": {
+    "en": "2",
+    "ar": ""
+
+  },
+
+  "BHLitePlanDetailscurrency": {
+    "en": "BHD",
+    "ar": ""
+
+  },
+
+  "BHPremiunPlanDetailsname": {
+    "en": "PREMIUM",
+    "ar": ""
+
+  },
+  "BHPremiumPlanDetailsprice": {
+    "en": "6",
+    "ar": ""
+
+  },
+
+  "BHPremiumPlanDetailscurrency": {
+    "en": "BHD",
+    "ar": ""
+
+  }
+}
